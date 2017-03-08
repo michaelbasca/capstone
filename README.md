@@ -2,12 +2,17 @@
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
 
-**Note**
+## External Libraries
+---
+[missingno](https://github.com/ResidentMario/missingno)
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+[fancyimpute](https://github.com/hammerlab/fancyimpute)
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly when submitting these two stages which encapsulate your capstone.
+## References
+---
+If the reviewer wishes to they may run the necessary code from [Capstone Code.ipynb](https://github.com/tournami/capstone/blob/master/Capstone%20Code.ipynb).
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
-
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+The files used are attached as well:
+ - train2016.csv
+ - test2016.csv
+ - Questions.csv
